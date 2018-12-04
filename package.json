@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot exclusivo para 1 unico servidor, feito em node.js.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "requests": "^0.2.2",
+    "ytdl-core": "^0.28.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "-ping"
+  },
+  "author": "Yuuki",
+  "license": "ISC"
+}
